@@ -1,0 +1,30 @@
+
+body {background-color:black;}
+
+.marco
+{
+    
+    width: 40em;
+    height: auto;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+    vertical-align: middle;
+    padding: 2em;
+    text-align: center;
+    border-style: solid;
+    border-color: beige;
+    border-width: 2px;
+    border-radius: 1em;
+
+}
+
+p, h1{
+    font-family: 'FreeMono', sans-serif;
+    color: beige;
+}
+
+.link{
+    background-color: antiquewhite;
+}

@@ -20,7 +20,7 @@ body {background-color:black;}
 
 }
 
-p, h1{
+p, h1, h3{
     font-family: 'FreeMono', sans-serif;
     color: beige;
 }
